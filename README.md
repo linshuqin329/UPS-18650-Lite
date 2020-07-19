@@ -14,5 +14,8 @@ For detailed instructions, please refer to the instructions in the project file.
 
 
 
-![image]（https://github.com/linshuqin329/UPS-18650-Lite/tree/master/images）
+![image](https://github.com/linshuqin329/UPS-18650-Lite/tree/master/images/ups-18650-lite.jpg)
+
+
+
 

@@ -12,3 +12,7 @@ UPS-18650-Lite is a UPS power supply specially designed for Raspberry Pi model B
 
 For detailed instructions, please refer to the instructions in the project file. If you have any questions, please contact me: 416386001@qq.com
 
+
+
+![image]（https://github.com/linshuqin329/UPS-18650-Lite/tree/master/images）
+
